@@ -14,3 +14,9 @@ Driving e-paper screen using CircuitPython
 | DC      | GP20         |
 | Reset   | GP21         |
 | Busy    | GP22         |
+
+## Links
+
+[Adafruit 1.54" eInk display breakouts](https://learn.adafruit.com/adafruit-1-54-eink-display-breakouts/overview)
+
+[Quickstart using Adafruit eInk/ePaper displays with CircuitPython](https://learn.adafruit.com/quickstart-using-adafruit-eink-epaper-displays-with-circuitpython/overview)
