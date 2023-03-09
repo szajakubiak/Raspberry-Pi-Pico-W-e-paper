@@ -1,6 +1,9 @@
 # Raspberry Pi Pico W with e-paper
 Driving e-paper screen using CircuitPython
 
+## Concept
+Device should download weather data from online server once every 30 minutes, display it on the e-paper screen and go to deep sleep to save power.
+
 ## Hardware
 * Raspberry Pi Pico W
 
