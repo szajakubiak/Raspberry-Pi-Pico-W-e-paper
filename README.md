@@ -26,3 +26,5 @@ Device should download weather data from online server once every 30 minutes, di
 [Quickstart using Adafruit eInk/ePaper displays with CircuitPython](https://learn.adafruit.com/quickstart-using-adafruit-eink-epaper-displays-with-circuitpython/overview)
 
 [Deep Sleep with CircuitPython](https://learn.adafruit.com/deep-sleep-with-circuitpython)
+
+[MagTag Daily Weather Forecast Display](https://learn.adafruit.com/magtag-weather)
