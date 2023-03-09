@@ -7,7 +7,7 @@ Device should download weather data from online server once every 30 minutes, di
 ## Hardware
 * Raspberry Pi Pico W
 
-* MH-ET Live 1.54 inch e-paper display
+* MH-ET Live 1.54 inch e-paper display (black and white version)
 
 ## Connections
 | e-paper | Raspberry Pi |
